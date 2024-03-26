@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi! 👋
+I'm a ✨Front-End Developer✨ who's all about building seamless, accessible, user-friendly, and responsive web experiences.
+
+### Skills
+* HTML
+* CSS
+* JavaScript
+* React
+* Tailwind CSS
+* UI design
+
+
 
 <!--
 **VriaA/VriaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
