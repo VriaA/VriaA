@@ -6,6 +6,7 @@ I'm a ✨Front-End Developer✨ who's all about building seamless, accessible, u
 * CSS
 * JavaScript
 * React
+* TypeScript
 * Tailwind CSS
 * UI design
 
