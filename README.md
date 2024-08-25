@@ -11,6 +11,7 @@ I'm a ✨Front-End Developer✨ who's all about building seamless, accessible, u
 * Tailwind CSS
 * Material UI
 * Firebase
+* GSAP
 * UI design
 
 
