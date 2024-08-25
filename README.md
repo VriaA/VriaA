@@ -7,7 +7,9 @@ I'm a ✨Front-End Developer✨ who's all about building seamless, accessible, u
 * JavaScript
 * React
 * TypeScript
+* Next.js
 * Tailwind CSS
+* Material UI
 * Firebase
 * UI design
 
