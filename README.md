@@ -8,8 +8,10 @@ I'm a ✨Front-End Developer✨ who's all about building seamless, accessible, u
 * React
 * TypeScript
 * Next.js
+* Jest
 * Tailwind CSS
 * Material UI
+* SASS
 * Firebase
 * GSAP
 * UI design
