@@ -1,5 +1,5 @@
 ### Hi! 👋
-I'm a ✨Front-End Developer✨ who's all about building seamless, accessible, user-friendly, and responsive web experiences.
+I'm a ✨Frontend Developer✨ who's all about building seamless, accessible, user-friendly, and responsive web experiences.
 
 ### Skills
 * HTML
